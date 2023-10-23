@@ -2,7 +2,7 @@
 
 Este script de Windows Batch está diseñado para limpiar archivos temporales en tu sistema, incluyendo los relacionados con Windows Update y paquetes NuGet. La expansión diferida se utiliza para acceder y eliminar estos archivos de manera eficiente.
 
-## Instrucciones de Uso:
+## Instrucciones de Uso
 
 1. Descarga el script desde este repositorio.
 
@@ -19,7 +19,7 @@ Este script de Windows Batch está diseñado para limpiar archivos temporales en
 
 5. El proceso de limpieza se realiza con precaución, pero ten en cuenta que eliminará permanentemente los archivos, así que úsalo con cuidado.
 
-## Importante:
+## Importante
 
 - Asegúrate de que tienes derechos de administrador para ejecutar este script.
 
